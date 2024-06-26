@@ -1,3 +1,3 @@
-print ("hola")
+print ("Buen día")
 print ("Que tal")
-# falta añadir más conversación
+# falta quitar más conversación
